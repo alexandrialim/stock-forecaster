@@ -1,7 +1,7 @@
 # stock-forecaster
 A simple stock forecaster that utilizes 5 years of tsla stock price data from yahoo finance
 
-*To generate a forecast for a different stock or trackable asset, please change the csv file that is currently being read* 
+*To generate a forecast for a different stock or trackable asset, please swap out the csv file that is currently being read* 
 
 Limitations: As the program stands, this will only forecast the price of Tesla 30 days into the future
 
